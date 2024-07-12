@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ketan-vitality.github.io",
+    "sha256_cert_fingerprints":
+    ["4B:DB:59:65:BC:82:42:D8:3C:40:32:48:D3:25:0A:47:0A:75:4A:3E:45:7A:74:90:99:2A:B6:1E:0A:6A:48:82"]
+  }
+}]
